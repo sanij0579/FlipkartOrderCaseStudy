@@ -46,7 +46,7 @@ As a developer passionate about **secure and smooth UX**, I implemented a **simp
 - OTP verification at the time of order placement  
 - Secure order placement and delivery  
 - Reduced risk of order cancellations and fraud  
-- Seamless user experience  
+- Seamless user experience    
 
 ---
 
